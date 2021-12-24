@@ -26,4 +26,4 @@ The columns in the given dataset is as follows:
 
 Dataset link : https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
-Web Application [![Watch the video](https://github.com/Poshali/Car-Price-Predictor-Heroku/blob/main/streamlit-car_price_predictor_app.webm)]
+Web Application ![alt text](https://github.com/Poshali/Car-Price-Predictor-Heroku/blob/main/Car-Price-Predictor-App.PNG)
