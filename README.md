@@ -1,8 +1,8 @@
-# Car-Price-Predictor-Heroku
+# Car-Price-Predictor
 CarDekho: Car Price Prediction
 This dataset contains information about used cars listed on www.cardekho.com
 
-The aim of this project is to predict the price of the car using various Machine Learning algorithms and then deploy the app on Heroku.
+The aim of this project is to predict the price of the car using various Machine Learning algorithms and then deploy the app.
 
 The columns in the given dataset is as follows:
 
